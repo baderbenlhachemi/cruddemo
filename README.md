@@ -2,6 +2,10 @@
 
 This project is a simple CRUD (Create, Read, Update, Delete) application developed using Java and Spring Boot. The application utilizes Maven as its build tool and MySQL as the database. The project adheres to a typical Spring Boot structure and employs the DAO (Data Access Object) pattern for handling database operations.
 
+![1](https://github.com/baderbenlhachemi/cruddemo/assets/88034249/bd8d4921-cdb4-4426-aa19-c27d40640d14)
+![2](https://github.com/baderbenlhachemi/cruddemo/assets/88034249/f42c2a52-1fc5-459c-96b9-23b0cb3226dd)
+![3](https://github.com/baderbenlhachemi/cruddemo/assets/88034249/96f8b554-332e-45e8-9f3c-90d2ad2a3a4c)
+
 ## Overview of Main Components
 
 ### CruddemoApplication.java
